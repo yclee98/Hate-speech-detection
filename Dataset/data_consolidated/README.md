@@ -1,0 +1,1 @@
+- stormfront = a white supremacist forum, manually labelled as hate speech or not
