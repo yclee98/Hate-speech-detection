@@ -1,5 +1,7 @@
 # The Gab Hate Corpus: A collection of 27k posts annotated for hate speech
 
+===== https://github.com/mpgiii/gab-hate/blob/main/Identifying%20Trends%20in%20Hate%20Speech%20on%20Gab.pdf 
+
 Consist of 27k posts from social network service gab.ai, each annotated by a minimum of three trained annotators
 
 Procedure for coding a text according to the “hate-based rhetoric” definition
