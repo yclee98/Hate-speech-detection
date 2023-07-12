@@ -3,4 +3,5 @@ Exercise3_Solution.ipynb
 Exercise5_Solution.ipynb
 /models
 /.venv/
+/.venv10/
 /Dataset/glove_embedding.txt
