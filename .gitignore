@@ -5,3 +5,4 @@ Exercise5_Solution.ipynb
 /.venv/
 /.venv10/
 /Dataset/glove_embedding.txt
+/Dataset/trained/
